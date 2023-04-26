@@ -1,0 +1,9 @@
+nbdt==0.0.4
+numpy
+torch==1.8.1
+torchvision==0.9.1
+plotly==5.10.0
+folium==0.13.0
+haversine==2.7.0
+streamlit-folium==0.7.0
+Pillow==9.2.0
