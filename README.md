@@ -43,4 +43,43 @@ A análise das avaliações dos clientes em relação aos restaurantes com notas
 
 
 
+# Fome Zero - Restaurant Marketplace
+# 1 - Business problem
+Fome Zero is an online platform that connects customers to restaurants of various cuisines. The company's goal is to facilitate the meeting and negotiations between customers and restaurants, offering a fast and easy shopping experience for users.
+
+How the platform works The restaurants register on the Fome Zero platform, providing information about their address, type of cuisine served, whether they make deliveries and if they have reservations, among other relevant information for customers. In addition, the platform provides a rating of the restaurant's services and products, based on customer reviews.
+
+Customers can search and filter the restaurants according to their preferences, such as location, type of cuisine, average price, among other criteria. They can view the restaurants' information, such as address, opening hours, menu, reviews, and make reservations or orders online.
+
+Technologies used Fome Zero's platform is developed using modern and scalable technologies to ensure the best possible experience for users. Some of the technologies used include:
+
+1 - Programming language: Python 
+2 - The libraries: Pandas, Io, re, Numpy, Datetime, Plotly Express, Folium, Haversine, Streamlit, Streamlit Cloud, PIL, JupyterLAB, VSCode 
+3 - The frameworks were: Visual Studio Code, JupyterLab.
+
+# 2. Business Premise
+The premise of the Zero Hunger business is to be a restaurant marketplace, i.e., to connect customers to restaurants of various cuisines and facilitate the negotiation between them. To do this, restaurants register on the platform by providing relevant information, such as address, type of cuisine, customer reviews, among others. Customers, in turn, can search and filter the restaurants according to their preferences and make reservations or orders online. In this way, the company aims to offer a quick and easy shopping experience for users, while helping restaurants expand their clientele and increase their sales.
+
+# 3. Solution Strategy
+The strategy used for performance evaluation consisted of using statistical measures, such as averages, standard deviation, sum and count, to evaluate the performance of the restaurants and cuisine types present on the platform. These measures were used to identify which restaurants and cuisine types perform better, either in terms of popularity among customers, quality of products and services offered, positive reviews, among other criteria. The analysis of this data can help Zero Hunger make strategic decisions, such as promoting the most popular restaurants or investing in cuisine types that have a higher growth potential on the platform.
+
+# 4. Top 3 Data Insights
+1 - Identification of the most popular restaurants: by analyzing the number of reservations and orders placed at each restaurant, we can identify those that are most popular among customers. This information can be used to promote the most popular restaurants on the platform, increasing their visibility and, consequently, their sales.
+
+2 - Identification of the most popular types of cuisine: from the analysis of customer preferences regarding the types of cuisine available, it is possible to identify those that are most in demand and thus invest in restaurants that offer these types of cuisine or further promote those that already exist on the platform.
+
+3 - Improving the quality of products and services: the evaluation of customer reviews in relation to restaurants and types of cuisine can help Fome Zero to identify those that need to improve the quality of their products and services. This can include everything from adjustments in the kitchen and service staff to adding new dishes to the menu or adopting strategies to increase customer satisfaction.
+
+# 5. the final product of the project
+The end product of these analyses is a set of relevant information and insights that can be used by the Zero Hunger company to improve its platform and increase its effectiveness in connecting customers to restaurants. The analytics allow them to identify which restaurants and types of cuisine are most popular and offer the highest quality in terms of products and services, which can be used to promote the most popular restaurants and invest in types of cuisine that have the most growth potential. In addition, the evaluations also allow us to identify points of improvement for restaurants and cuisines that are not performing well, helping Fome Zero to offer a more satisfying experience for its customers. Overall, the end product of these reviews is a set of insights and recommendations that can be used to guide the company's strategic decisions and improve the user experience on the platform.
+
+
+# 6. Conclusion
+Analyzing customer reviews of restaurants with low ratings can provide some important conclusions for Zero Hunger. Here are some possible conclusions:
+
+1 -Identification of areas for improvement: the negative evaluations can help identify the areas in which the restaurant needs to improve, such as the quality of products and services, waiting time, hygiene, among other aspects. This information can be used by the restaurant to make adjustments and improve its rating on the platform.
+
+2 - Possibility of offering support: in some cases, the restaurant may be facing problems that cannot be solved internally. In these cases, Fome Zero can offer support to the restaurant, for example, providing training or guidance on how to improve the quality of products and services offered.
+
+3 -Evaluation of the partnership viability: in some cases, negative evaluations may be an indication that the restaurant is not offering a satisfactory experience to customers. In these cases, Fome Zero can evaluate the feasibility of the partnership with the restaurant, considering aspects such as the restaurant's reputation and the negative impact that negative reviews may have on the platform's image.
 
