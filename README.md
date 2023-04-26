@@ -1,5 +1,5 @@
-#Fome Zero - Marketplace de Restaurantes
-1 - Problema de negócio
+# Fome Zero - Marketplace de Restaurantes
+# 1 - Problema de negócio
 A Fome Zero é uma plataforma online que conecta clientes a restaurantes de diversas culinárias. O objetivo da empresa é facilitar o encontro e negociações entre clientes e restaurantes, oferecendo uma experiência de compra rápida e fácil para os usuários.
 
 Como funciona a plataforma
@@ -14,7 +14,7 @@ A plataforma da Fome Zero é desenvolvida utilizando tecnologias modernas e esca
 2 - As bibliotecas: Pandas, Io, re, Numpy, Datetime, Plotly Express, Folium, Haversine, Streamlit, Streamlit Cloud, PIL, JupyterLAB, VSCode 
 3 - Os frameworks foram: Visual Studio Code, JupyterLab. 
 
-#2. Premissas do negócio
+# 2. Premissas do negócio
 A premissa do negócio da empresa Fome Zero é ser um marketplace de restaurantes, ou seja, conectar clientes a restaurantes de diversas culinárias e facilitar a negociação entre eles. Para isso, os restaurantes se cadastram na plataforma fornecendo informações relevantes, como endereço, tipo de culinária, avaliações de clientes, entre outras. Os clientes, por sua vez, podem pesquisar e filtrar os restaurantes de acordo com suas preferências e fazer reservas ou pedidos online. Dessa forma, a empresa visa oferecer uma experiência de compra rápida e fácil para os usuários, ao mesmo tempo em que ajuda os restaurantes a expandirem sua clientela e a aumentarem suas vendas.
 
 # 3. Estratégia da solução
