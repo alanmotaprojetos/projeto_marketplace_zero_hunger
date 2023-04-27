@@ -29,7 +29,8 @@ A estratégia utilizada para avaliação de desempenho consistiu em utilizar med
 3 - Melhoria da qualidade dos produtos e serviços: a avaliação das avaliações dos clientes em relação aos restaurantes e tipos de culinária pode ajudar a Fome Zero a identificar aqueles que precisam melhorar a qualidade de seus produtos e serviços. Isso pode incluir desde ajustes na cozinha e na equipe de atendimento até a inclusão de novos pratos no cardápio ou a adoção de estratégias para aumentar a satisfação dos clientes.
 
 # 5. O produto final do projeto
-O produto final dessas análises é um conjunto de informações relevantes e insights que podem ser utilizados pela empresa Fome Zero para melhorar sua plataforma e aumentar sua eficácia em conectar clientes a restaurantes. As análises permitem identificar quais restaurantes e tipos de culinária são mais populares e oferecem maior qualidade em termos de produtos e serviços, o que pode ser usado para promover os restaurantes mais populares e investir em tipos de culinária que apresentem um maior potencial de crescimento. Além disso, as avaliações também permitem identificar pontos de melhoria para os restaurantes e tipos de culinária que não estão apresentando um bom desempenho, ajudando a Fome Zero a oferecer uma experiência mais satisfatória para seus clientes. No geral, o produto final dessas análises é um conjunto de insights e recomendações que podem ser usados para orientar as decisões estratégicas da empresa e melhorar a experiência do usuário na plataforma.
+Dashboad online, hospedado em um Cloud e disponível para acessso em qualquer dispositivo conectado à internet.
+O painel pode ser acessado através desse link: https://alanmotaprojetos-projeto-marketplace-zero-hunger-home-k6jdzh.streamlit.app/
 
 
 # 6. Conclusão
@@ -71,7 +72,8 @@ The strategy used for performance evaluation consisted of using statistical meas
 3 - Improving the quality of products and services: the evaluation of customer reviews in relation to restaurants and types of cuisine can help Fome Zero to identify those that need to improve the quality of their products and services. This can include everything from adjustments in the kitchen and service staff to adding new dishes to the menu or adopting strategies to increase customer satisfaction.
 
 # 5. the final product of the project
-The end product of these analyses is a set of relevant information and insights that can be used by the Zero Hunger company to improve its platform and increase its effectiveness in connecting customers to restaurants. The analytics allow them to identify which restaurants and types of cuisine are most popular and offer the highest quality in terms of products and services, which can be used to promote the most popular restaurants and invest in types of cuisine that have the most growth potential. In addition, the evaluations also allow us to identify points of improvement for restaurants and cuisines that are not performing well, helping Fome Zero to offer a more satisfying experience for its customers. Overall, the end product of these reviews is a set of insights and recommendations that can be used to guide the company's strategic decisions and improve the user experience on the platform.
+Dashboad online, hosted in a Cloud and available for access from any internet connected device.
+The dashboard can be accessed through this link: https://alanmotaprojetos-projeto-marketplace-zero-hunger-home-k6jdzh.streamlit.app/
 
 
 # 6. Conclusion
