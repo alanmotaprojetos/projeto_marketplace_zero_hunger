@@ -20,6 +20,47 @@ A premissa do negócio da empresa Fome Zero é ser um marketplace de restaurante
 # 3. Estratégia da solução
 A estratégia utilizada para avaliação de desempenho consistiu em utilizar medidas estatísticas, como médias, desvio padrão, soma e contagem, para avaliar o desempenho dos restaurantes e tipos de culinária presentes na plataforma. Essas medidas foram utilizadas para identificar quais restaurantes e tipos de culinária apresentam um melhor desempenho, seja em termos de popularidade entre os clientes, qualidade dos produtos e serviços oferecidos, avaliações positivas, entre outros critérios. A análise desses dados pode ajudar a Fome Zero a tomar decisões estratégicas, como promover os restaurantes mais populares ou investir em tipos de culinária que apresentem um maior potencial de crescimento na plataforma.
 
+## Perguntas de Negócio
+### Visão geral:
+Restaurantes únicos registados.
+Países únicos registados.
+Cidades únicas registadas.
+Total de avaliações efectuadas.
+Total de tipos de cozinha.
+Desvio padrão.
+Localização de restaurantes em países e cidades.
+
+## Visão do país:
+Número de cidades registadas por país.
+País com mais restaurantes registados.
+Top 15: Países com restaurantes com um nível de preço igual a 4.
+País com o maior número de avaliações efectuadas.
+Número de restaurantes por país que fazem entregas.
+País com o maior número de restaurantes que aceitam reservas.
+Preço médio de um prato para duas pessoas por país.
+
+## Visão da cidade:
+Cidade maior: Custo médio para duas pessoas.
+Top 10: Cidades com mais restaurantes registados.
+Top 10: Cidades com mais restaurantes com uma pontuação média superior a 4.
+Top 10: Cidades com mais restaurantes com pontuação média abaixo de 2,5.
+Top 10: Cidade com mais restaurantes que aceitam reservas.
+Top 20: Cidade com o maior número de restaurantes que aceitam pedidos online.
+
+## Visão Restaurantes:
+Top 10: Restaurante com mais avaliações.
+Cozinha brasileira que têm uma classificação média registada( Classificação >= 4,5).
+Cozinha brasileira que têm a classificação média mais baixa( Classificação = 0 ).
+
+## Visão Tipos de Culinária:
+Restaurantes de cozinha italiana com a classificação média mais elevada (Rating >= 4,8 ).
+Restaurantes de cozinha italiana com a classificação média mais baixa (Rating == 0,0 ).
+Restaurantes de cozinha americana com a classificação média mais elevada (Classificação >= 4,8 ).
+Restaurantes de cozinha americana com a classificação média mais baixa (Classificação == 0,0 ).
+Restaurantes de cozinha árabe com a classificação média mais alta (Classificação >= 4,0 ).
+Restaurantes de cozinha árabe com a classificação média mais baixa (Classificação == 0,0 ).
+Restaurantes de cozinha japonesa com a classificação média mais alta (Classificação >= 4.5 ).
+
 
 # 4. Top 3 Insights de dados
 1 - Identificação dos restaurantes mais populares: ao analisar o número de reservas e pedidos realizados em cada restaurante, podemos identificar aqueles que são mais populares entre os clientes. Essa informação pode ser usada para promover os restaurantes mais populares na plataforma, aumentando sua visibilidade e, consequentemente, suas vendas.
@@ -63,6 +104,47 @@ The premise of the Zero Hunger business is to be a restaurant marketplace, i.e.,
 
 # 3. Solution Strategy
 The strategy used for performance evaluation consisted of using statistical measures, such as averages, standard deviation, sum and count, to evaluate the performance of the restaurants and cuisine types present on the platform. These measures were used to identify which restaurants and cuisine types perform better, either in terms of popularity among customers, quality of products and services offered, positive reviews, among other criteria. The analysis of this data can help Zero Hunger make strategic decisions, such as promoting the most popular restaurants or investing in cuisine types that have a higher growth potential on the platform.
+
+## Business questions: 
+## Overview:
+Unique Restaurants Registered.
+Unique Countries Registered.
+Single Registered Cities.
+Total Evaluations Done.
+Total Types of Cuisine.
+Standard Deviation.
+Location of restaurants in countries and cities.
+
+## Country View:
+Number of Registered Cities per Country.
+Country with most registered restaurants.
+Top 15: Countries with Restaurants with a price level equal to 4.
+Country with the most evaluations done.
+Number of restaurants per Country that deliver.
+Country with the most restaurants that accept reservations.
+Average price of a dish for two per country.
+
+## City View:
+Larger City: Average cost for two.
+Top 10: Cities with most registered restaurants.
+Top 10: Cities with more restaurants with an average score above 4.
+Top 10: Cities with more restaurants with average score below 2.5.
+Top 10: City with the most restaurants that take reservations.
+Top 20: City with the most restaurants that accept online orders.
+
+## Restaurants View:
+Top 10: Restaurant with the most reviews.
+Brazilian cuisine that have a recorded average rating( Rating >= 4.5).
+Brazilian cuisine that have the lowest average ratings( Rating = 0 ).
+
+## Types of Cooking:
+Italian cuisine restaurants with the highest average rating (Rating >= 4.8 ).
+Italian cuisine restaurants with the lowest average rating (Rating == 0.0 ).
+American cuisine restaurants with the highest average rating (Rating >= 4.8 ).
+American cuisine restaurants with the lowest average rating (Rating == 0.0 ).
+Arabian cuisine restaurants with the highest average rating (Rating >= 4.0 ).
+Arabian cuisine restaurants with the lowest average rating (Rating == 0.0 ).
+Japanese cuisine restaurants with the highest average rating (Rating >= 4.5 ).
 
 # 4. Top 3 Data Insights
 1 - Identification of the most popular restaurants: by analyzing the number of reservations and orders placed at each restaurant, we can identify those that are most popular among customers. This information can be used to promote the most popular restaurants on the platform, increasing their visibility and, consequently, their sales.
